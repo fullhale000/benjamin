@@ -1,0 +1,34 @@
+:root{
+    box-sizing: border-box;
+}
+*, *::before, *::after{
+    box-sizing: inherit;
+}
+body{
+    text-transform: uppercase;
+}
+h1{
+    width:300px;
+    text-align: center;
+    font-family: sans-serif;
+}
+button{
+    padding:15px;
+    margin:20px;
+    width:80px;
+}
+#lightBox{
+    width:300px;
+    background-color:white;
+    border:5px solid #003087;
+    padding:20px;
+
+}
+img{
+    height:130px;
+    margin:10px auto;
+}
+div{
+    text-align:center;
+    width:300px;
+}

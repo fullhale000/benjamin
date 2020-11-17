@@ -1,0 +1,1 @@
+console.log('Switch the light ON or OFF!');
